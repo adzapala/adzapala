@@ -1,5 +1,5 @@
 - 👋 Hi there!
-- 👀 I’m interested in computer science (informatics, computer engineering), especially programming, computer networks, number theory and cryptology. Besides this I'm interested in astronomy, cosmonautics and space engineering.
+- 👀 I'm a computer scientist (informatics, computer engineering). I'm interested especially in programming, computer networks, number theory and cryptology. Besides this I'm interested in astronomy, cosmonautics and space engineering.
 
 <!---
 adzapala/adzapala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
